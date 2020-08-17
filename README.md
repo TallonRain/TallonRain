@@ -1,6 +1,6 @@
 ### Hi there, I'm Kyle
 
-I'm a systems administrator and software engineer who loves crafting robust solutions to interesting problems. My goal is to create and expand on technology that empowers people to make their lives and the lives around them easier and better in the long term.
+I'm a systems administrator and software engineer who loves crafting robust solutions to interesting problems. My goal is to create and expand on technology that empowers people to make their lives and the lives of others around them easier and better in the long term.
 
 - 🔭 I’m currently working on a few secret projects involving communications and some interactive media.
 - 🌱 I’m currently learning data analysis and a collection of frameworks.
