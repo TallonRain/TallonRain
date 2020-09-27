@@ -5,6 +5,6 @@ I'm a systems administrator and software engineer who loves crafting robust solu
 - 🔭 I’m currently working as a full time systems administrator at Thermo Fisher Scientific. I'm also working on a few private projects developing automation, communications and interactive media applications.
 - 🌱 I’m currently learning data analysis, computer graphics and a collection of frameworks.
 - 💬 Ask me about Python, Rust, networking, infra and secure communications.
-- 📫 How to reach me: https://tallonra.in
+- 📫 How to reach me: https://tallonrain.dev
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Bats are almost always arguing with other bats.
