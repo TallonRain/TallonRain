@@ -1,6 +1,6 @@
 # Hi there, I'm Kyle
 
-Certified systems administrator, cloud architect and wannabe software engineer who loves crafting robust and scalable solutions to interesting problems. My goal is to create and expand on technology that empowers people to make their lives and the lives of others around them easier, healthier and better in the long term.
+Certified systems administrator, cloud architect and dorky adventurer who loves crafting robust and scalable solutions to interesting problems. My goal is to create and expand on technology that empowers people to make their lives and the lives of others around them easier, healthier and better in the long term.
 
 ## Online Presence
 
