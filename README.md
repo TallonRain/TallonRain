@@ -13,9 +13,7 @@ Currently I am interested in Rust software development for a wide variety of app
 - [Keybase](https://keybase.io/tallonrain)
 - [LinkedIn](https://www.linkedin.com/in/kylemworthington/)
 
-## Contact
-
-You can find my comprehensive contact methods [here](https://kmw.dev/contact).
+---
 
 [![TallonRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=tallonrain&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![TallonRain's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tallonrain&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
