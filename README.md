@@ -17,4 +17,5 @@ Currently I am interested in Rust software development for a wide variety of app
 
 You can find my comprehensive contact methods [here](https://kmw.dev/contact).
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=tallonrain)](https://github.com/anuraghazra/github-readme-stats)
+[![TallonRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=tallonrain&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
