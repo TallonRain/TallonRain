@@ -10,6 +10,7 @@ Currently I am interested in Rust software development for a wide variety of app
 
 - [Blog & Portfolio](https://kmw.dev)
 - [Mastodon](https://mas.to/@TallonRain)
+- [Bluesky](https://bsky.app/profile/kmw.dev)
 - [Twitter, aka 𝕏](https://twitter.com/TallonRain) (No longer used - Please refer to my Mastodon or Bluesky)
 - [Keybase](https://keybase.io/tallonrain)
 - [LinkedIn](https://www.linkedin.com/in/kylemworthington/)
