@@ -4,8 +4,6 @@ Certified systems administrator, network engineer, cloud architect and dorky adv
 
 In my down time I can be found exploring the world, enjoying some music or saving the world in video games. I also enjoy cooking and skiing.
 
-Currently I am interested in Rust software development for a wide variety of applications.
-
 ## Online Presence
 
 - [Blog & Portfolio](https://kmw.dev)
