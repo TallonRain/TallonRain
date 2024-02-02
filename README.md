@@ -1,6 +1,6 @@
 # Hi there, I'm Kyle
 
-Certified systems administrator, network engineer, cloud architect and dorky adventurer who loves crafting robust and scalable solutions to interesting problems. My goal is to create and expand on technology that empowers people to make their lives and the lives of others around them easier, healthier and better in the long term.
+Certified systems administrator, network engineer, cloud architect, computer scientist, security engineer, gamedev hobbyist and dorky adventurer who loves crafting robust and scalable solutions to interesting problems. My goal is to create and expand on technology that empowers people to make their lives and the lives of others around them easier, healthier and better in the long term.
 
 In my down time I can be found exploring the world, enjoying some music or saving the world in video games. I also enjoy cooking and skiing.
 
