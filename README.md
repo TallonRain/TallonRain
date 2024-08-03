@@ -1,8 +1,8 @@
 ## Hi there, I'm Kyle
 
-Experienced systems administrator, network engineer, cloud architect, computer scientist, cybersecurity engineer, gamedev hobbyist and dorky adventurer who loves crafting robust and scalable solutions to interesting problems.
+Experienced systems administrator, network engineer, cloud architect, computer scientist, cybersecurity engineer, gamedev hobbyist and dorky adventurer who loves crafting robust and scalable solutions to interesting technical problems.
 
-In my down time I can be found exploring the world, enjoying some music or saving the world in video games. I also enjoy cooking and skiing.
+In my down time I can be found exploring the world, enjoying some music, taking photographs from the ground to the sky, or saving the world in video games. I also enjoy cooking and skiing.
 
 ## Online Presence
 
