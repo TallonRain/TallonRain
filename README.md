@@ -7,8 +7,7 @@ In my down time I can be found exploring the world, enjoying some music or savin
 ## Online Presence
 
 - [Blog & Portfolio](https://kmw.dev)
-- [Mastodon (Main)](https://mas.to/@TallonRain)
-- [Mastodon (Alt)](https://tech.lgbt/@kmw)
+- [Mastodon](https://mas.to/@TallonRain)
 - [Bluesky](https://bsky.app/profile/kmw.dev)
 - [𝕏, Formerly Twitter](https://twitter.com/TallonRain) (No longer used - Please refer to my Mastodon or Bluesky)
 - [Keybase](https://keybase.io/tallonrain)
