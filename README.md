@@ -9,6 +9,5 @@ In my down time I can be found exploring the world, enjoying some music, taking 
 - [Blog & Portfolio](https://kmw.dev)
 - [Bluesky](https://bsky.app/profile/kmw.dev)
 - [Mastodon](https://mas.to/@TallonRain)
-- [𝕏, Formerly Known as Twitter](https://twitter.com/TallonRain) (No longer used - Please refer to my Bluesky or Mastodon accounts)
 - [Keybase](https://keybase.io/tallonrain)
 - [LinkedIn](https://www.linkedin.com/in/kylemworthington/)
