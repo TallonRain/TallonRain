@@ -10,7 +10,7 @@ I have extensive familiarity with many technologies and fields ranging from ente
 
 I primarily write Python, C#, Rust, TypeScript, and C++.
 
-Currently I'm interested in the Unity Engine and various applications of artificial intelligence.
+Currently I'm working on some game prototype projects and learning about various applications of artificial intelligence.
 
 ## Online Presence
 
