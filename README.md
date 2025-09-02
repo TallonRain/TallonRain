@@ -1,12 +1,8 @@
-## Hi there, I'm Kyle
-
-### Systems Administrator & Software Engineer
-
-Experienced systems administrator, network engineer, cloud architect, computer scientist, cybersecurity engineer, gamedev hobbyist and dorky adventurer who loves crafting robust and scalable solutions to interesting and unique technical problems.
+Sysadmin, network engineer, cloud architect, computer scientist, cybersecurity engineer, gamedev hobbyist and dorky adventurer who loves crafting robust and scalable solutions to interesting and unique technical problems.
 
 In my down time I can be found exploring the world, enjoying some music, taking photographs from the ground to the sky, reading books, or saving the world in video games. I also enjoy cooking and skiing.
 
-I have extensive familiarity with many technologies and fields ranging from enterprise SaaS solutions to web development to CAD & 3D printing. I have my hands in a little bit of everything and always looking for more.
+I have extensive familiarity with many technologies and fields ranging from enterprise IT systems to cloud computing to CAD & 3D printing. I work on a little bit of everything and am always looking for more to learn.
 
 Currently I'm working on some game prototype projects and learning about various applications of artificial intelligence.
 
