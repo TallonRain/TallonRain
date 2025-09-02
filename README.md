@@ -8,8 +8,6 @@ In my down time I can be found exploring the world, enjoying some music, taking 
 
 I have extensive familiarity with many technologies and fields ranging from enterprise SaaS solutions to web development to CAD & 3D printing. I have my hands in a little bit of everything and always looking for more.
 
-I primarily write Python, C#, Rust, TypeScript, and C++.
-
 Currently I'm working on some game prototype projects and learning about various applications of artificial intelligence.
 
 ## Online Presence
